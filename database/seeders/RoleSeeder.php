@@ -1,4 +1,5 @@
 <?php
+// Author: Teddy Jr. Imperial| ITP 212 Group 5
 
 namespace Database\Seeders;
 
