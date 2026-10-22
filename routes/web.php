@@ -1,4 +1,5 @@
 <?php
+// Author: Jemarie Manggarai | ITP 212 Group 5
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\RegisterController;
