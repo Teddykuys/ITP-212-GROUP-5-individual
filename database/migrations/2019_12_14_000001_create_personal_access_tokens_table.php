@@ -1,4 +1,5 @@
 <?php
+// Author: Teddy Jr. Imperial| ITP 212 Group 5
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
